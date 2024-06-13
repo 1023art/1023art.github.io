@@ -81,7 +81,8 @@
 
 :root {
     --font-1    : "Inter", sans-serif;
-    --font-2    : "Castoro", serif;
+    /*--font-2    : "Castoro", serif;*/
+    --font-2    : "SimHei", serif;
 
     /* monospace
     */
